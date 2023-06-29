@@ -5,8 +5,8 @@
 
 - 💬 Ask me about **Designing**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="linkedin.com/in/nadunkms" style="text-decoration:none;"> Linkedin</a>
+<h3 align="left">Connect with me:<a href="linkedin.com/in/nadunkms" style="text-decoration:none;"> Linkedin</a></h3>
+<p align="left">“I find the challenge of whether I can change and adapt to collaborate with other people exciting.”
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
