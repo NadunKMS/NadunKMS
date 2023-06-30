@@ -1,3 +1,8 @@
+<head>
+  <style>
+    *{font-family:'poppins;}
+  </style>
+</head>
 <h1 align="center">Hi 👋, I'm Nadun Sumedha</h1>
 <h3 align="center">Product Designer | UX Enthusiast</h3>
 
