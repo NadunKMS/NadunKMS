@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nadun Sumedha</h1>
+<h1 align="center">Hi <img href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Nadun Sumedha</h1>
 <h3 align="center">Product Designer | UX Enthusiast</h3>
 
 - 🌱 I’m currently learning **Figma,Flutter**
