@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Nadun Sumedha</h1>
-<div style="font-family=poppins;">
+<div style="font-family='sans-serif';">
 <h3 align="center">Product Designer | UX Enthusiast</h3>
 
 - 🌱 I’m currently learning **Figma,Flutter**
