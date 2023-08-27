@@ -10,7 +10,7 @@
 <p align="left">“I find the challenge of whether I can change and adapt to collaborate with other people exciting.”
 </p>
 <br>
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nadun)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad){:target="_blank"}
 
 <h3 align="left">Languages and Tools:</h3>
 </div>
