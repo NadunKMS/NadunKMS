@@ -1,7 +1,7 @@
-<h1 align="center">Hi <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p> I'm Nadun Sumedha</h1>
+<h1 align="center">Hey! I'm Nadun</h1>
 
 <div style="font-family='sans-serif';">
-<h3 align="center">Product Designer | UX Enthusiast</h3>
+<h3 align="center">Self taught UI/UX Designer | Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Figma,Flutter**
 
