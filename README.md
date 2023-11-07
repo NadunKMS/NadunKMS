@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> I'm Nadun Sumedha</h1>
+<h1 align="center">Hi <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p> I'm Nadun Sumedha</h1>
+
 <div style="font-family='sans-serif';">
 <h3 align="center">Product Designer | UX Enthusiast</h3>
 
