@@ -2,7 +2,7 @@
 
 <div style="font-family='sans-serif';">
 <h3 align="center">Self taught UI/UX Designer | Frontend Developer</h3>
-<img src="https://drive.google.com/uc?export=view&id=1sZ-rMAcUAimTbIClPKVUF2MO0JJerNcV" alt="cover">
+<img src="https://drive.google.com/uc?export=view&id=1sZ-rMAcUAimTbIClPKVUF2MO0JJerNcV" alt="cover" style="border:none;border-radius:12px">
 
 - 🌱 I’m currently learning **Figma,Flutter**
 
