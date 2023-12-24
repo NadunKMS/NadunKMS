@@ -2,7 +2,7 @@
 
 <div style="font-family='sans-serif';">
 <h3 align="center">Self taught UI/UX Designer | Frontend Developer</h3>
-<img href="https://drive.google.com/uc?export=view&id=1sZ-rMAcUAimTbIClPKVUF2MO0JJerNcV" alt="cover">
+<img href="[https://drive.google.com/uc?export=view&id=1sZ-rMAcUAimTbIClPKVUF2MO0JJerNcV](https://doc-0g-7s-docs.googleusercontent.com/docs/securesc/l6fc5r4rjsv44d5f5hulaf2hcp539s79/mrf03c2phngo0j366be00l69tchuou1l/1703419050000/12876173334107249940/12876173334107249940/1sZ-rMAcUAimTbIClPKVUF2MO0JJerNcV?e=view&ax=AEqgLxnapOeoymMbop9_WNSFYj_vCGotrE-VGwuGUiqQuBi1n0o3l3v5xcMRuU21TtbWy14GwG9aV4n5s26CeE6eFfQY-9APMoMW7ePF_VIeh_1ybs0RxB_Si1N3lUd1zUev-__TWbjy99b1AtxIOVQLxuy0zsrY6fEVDN1SiDx2VXdT57lg4T6IYhAhCl6ioU2FTMX1BVfBk9Jwgu-vycnLqTfykhLbA5j6T9_zgCZvKzc6RqY0m8iPYsQuR-uEC6aNybMBiq6fff-bYHtshXSX89YRYxDGJuE61U3wcn_XT7hiuMBSDLzKIRO_oMBC2U-6-emASzzKByN9KBs89BRmo8k4Ahq-TXIPusmVN0Z5P6cXPDizoYpVuTJonn0_FYD40gaMX6gbnxaalM2cmCHpcC_X4SCbPqBD0gbGHzYK1YBNgf79zKMS3HMnRTQQ32YjMhnNhW5GRcRCY77bKKXvk0DFx4agNdElbfpbgCndCEw02zZOvVGpwCEgw5ufWP53u7i28_W3Ksnbwno9fryht4S5O8NgIAtrty77TVSb5QmOaDe-9Oj1zNcu2g64BoFHI8XWHyGEUQ0P4lNI3lrWfNtDIxVdwflZRjh7VLzEASvwFbfZiW_6BCCeLlQgMDZ6pFqrr7TFpCILm8s96RwahNYJhRDTsYIi5CWaNz4S_dMHQhjnMb3r8GTFAtnMhDOWWUl8K26abds_BVNCjwpJ5zMw_xpeKUeoa0Y6K48r5Tqi_KnTpN_mx6zAIFnEPdhYEKovm6LjGbsTrY0RE56yfn7hQdUn1bCkbh7_6_BONBQT2DniLE59YWbZvjruceUPtBXlPf3htAxnuJ1TBi-7kZz6NksqqawPKG8l7QCmG7A&uuid=ea7e3d4a-268c-410f-abda-6058c1439fd4&authuser=0)" alt="cover">
 
 - 🌱 I’m currently learning **Figma,Flutter**
 
